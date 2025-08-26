@@ -13,8 +13,21 @@
 <br><br>
 <br><br>
 
+## IP address 
+
+<img width="1918" height="624" alt="image" src="https://github.com/user-attachments/assets/82a6e08d-347d-4835-8d52-73e1fcc43981" />
+
 <br><br>
 <br><br>
+
+## WebSocket bridge on port 9090
+
+<img width="1919" height="303" alt="image" src="https://github.com/user-attachments/assets/d787e21d-a0f6-4bb2-b386-43b87df0bdfd" />
+
+
+<br><br>
+<br><br>
+
 ## ip from ros add to flutter
 <img width="1446" height="222" alt="image" src="https://github.com/user-attachments/assets/8ac06db3-938c-4c14-ac22-ad64b6a57a8c" />
 <br><br>
